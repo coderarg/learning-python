@@ -13,8 +13,9 @@ print(other_list[-3])
 # print(other_list[-5]) # IndexError
 
 # Count
-
 print(my_list.count(5))
+# Index
+other_list.index("Lucas")
 
 # Append
 my_list.append("Elemento")
