@@ -17,9 +17,9 @@ name, surname, age = "Lucas", "García", 27
 print("Mi nombre es {} {} y tengo {} años".format(name, surname, str(age)))
 print("Mi nombre es %s %s y tengo %d años" %(name, surname, age))
 print(f"Mi nombre es {name} {surname} y tengo {age} años")
+
 #... que la siguiente manera.
 print("Mi nombre es " + name + " " + surname + " y tengo " + str(age) + " años.")
-
 
 # Slice
 language = "python"
@@ -48,4 +48,3 @@ print("1".isnumeric()) #true
 
 # starts with
 print("Hola".startswith("Ho")) #true
-
