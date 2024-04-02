@@ -9,8 +9,10 @@ def sum_two_values (first, second):
     print(int(first) + int(second))
 sum_two_values (1, 2)
 
-def multiply_two_values (first, second = 10): #The second value has a default value
+def multiply_two_values (first: int, second = 10):
+    # In this case we can set the type of data and a default value
     return first * second
+
 
 print(multiply_two_values(3, 4))
 
