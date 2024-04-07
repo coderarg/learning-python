@@ -17,3 +17,4 @@
 
 ## Intermediate
 - Dates
+- List Comprehension
