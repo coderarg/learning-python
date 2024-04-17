@@ -67,3 +67,9 @@ print(is_anagrama("Amor", "Roma"))
  *   0, 1, 1, 2, 3, 5, 8, 13...
  """
 
+""" def fibonacci_serie(iterations):
+    previous = 0
+    next = 1
+    for it in range(0, iterations, 1):
+        
+ """
