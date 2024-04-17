@@ -1,5 +1,6 @@
 # <img src="./logos/python-logo.png" width="30px"> Learning Python 
 
+## Basic
 - Variables
 - Operators
 - Strings
@@ -12,3 +13,8 @@
 - Functions
 - Classes
 - ErrorHandling
+- Modules
+
+## Intermediate
+- Dates
+- List Comprehension
