@@ -18,3 +18,6 @@
 ## Intermediate
 - Dates
 - List Comprehension
+- Challenges
+- Lambdas
+- Higher Order Functions
