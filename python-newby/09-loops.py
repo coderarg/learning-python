@@ -43,3 +43,16 @@ for letra in cadena:
     if letra == 'P':
         continue
     # print(letra)
+
+
+# For loop with Else condition
+email = "lucasgarcia@tuemail.com"
+
+for letter in email:
+    print(letter)
+else:
+    print("The loop finished")
+# the else condition is executed when the loop finished 
+# but only in the case that all the iterations was executed successfully
+# if the loop were broken by an error, the else condition wouldn't be executed
+
