@@ -1,3 +1,4 @@
+"""
 # Strings
 my_string  = "Mi String"
 my_other_string = 'Mi otro String'
@@ -62,3 +63,5 @@ s = s.lstrip()
 
 #You can provide an argument to strip arbitrary characters to any of these functions, like this:
 s = s.strip(' \t\n\r')
+"""
+
