@@ -83,7 +83,7 @@ def fibonacci_serie(iterations):
         
     print(fibonacci_sequence)
 
-# fibonacci_serie(6)
+fibonacci_serie(6)
 
 """ 
 * Escribe un programa que se encargue de comprobar si un número es o no primo.
